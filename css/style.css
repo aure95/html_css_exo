@@ -1,13 +1,16 @@
 body{
 	background:skyblue;
-	display:flex;
-	flex:wrap;
+	display: block
+	margin-left: 50px;
+	
+	
 }
 div
 {
-
+    
 	width:200px;
 	height:200px;
+	margin-right: 5px;
 }
 .maDiv-1{
 	background:blue;
