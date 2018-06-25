@@ -1,0 +1,22 @@
+body{
+	background:skyblue;
+	display:flex;
+	flex:wrap;
+}
+div
+{
+
+	width:200px;
+	height:200px;
+}
+.maDiv-1{
+	background:blue;
+}
+
+.maDiv-2{
+	background:red;
+}
+
+.maDiv-3{
+	background:green;
+}
